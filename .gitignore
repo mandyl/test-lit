@@ -1,0 +1,12 @@
+.idea/*
+*.iml
+*/target/*
+*.iws
+*.iml
+*.ipr
+
+.classpath
+.project
+target
+.settings
+*.versionsBackup
